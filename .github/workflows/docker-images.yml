@@ -23,5 +23,5 @@ jobs:
           context: .
           push: true
           tags: |
-            padevdocker/api-ts:1.0.1
-            padevdocker/api-ts:latest
+            paulodevmais/api-ts:1.0.1
+            paulodevmais/api-ts:latest
